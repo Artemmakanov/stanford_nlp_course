@@ -1,0 +1,6 @@
+In this picture I can see that words, related to wheather was clustered together, 
+also, thre're cluster of food: 'sweet', 'tea', 'coffee'.
+There're a few gropus of adjectives: 'enfoyable', 'brilliant', 'cool'.
+However, their antonyms a near: 'bad', 'annoying'.
+Maybe, it's because they are related to one thing but from different ways.
+Then, i can see analogy male:king :: woman:quenn.

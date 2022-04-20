@@ -1,0 +1,7 @@
+﻿а.
+	1. Momentum adds inertia to parameters updating process. Thus, m is an anologue of speed. This feature can prevent too much varying of parameters, because with momentum it is necessary apply more gradients to change a direction of parameters updating.
+	2. Parameters with small gradients will get larger updates. It might help with learning as if it is necessary to move into some direction to achieve local minimum, but the gradients are too small, it will take a long time.
+b.
+	1. 
+	2. Dropout prevents overfitting and provides a way of approximately combining exponentially many different neural network architectures efficiently. Dropout makes neurons output 'wrong' values on purpose. Because you disable neurons randomly, your network will have different outputs every activation. This undermines consistency, so dropout NOT be applied during evaluation.
+\
