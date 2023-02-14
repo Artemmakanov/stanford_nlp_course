@@ -1,0 +1,11 @@
+# Fdb version 3
+["pdflatex"] 1675748805 "submission.tex" "submission.pdf" "submission" 1675748805
+  "/etc/texmf/web2c/texmf.cnf" 1643720491 475 c0e671620eb5563b2130f56340a5fde8 ""
+  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1581979058 38841 ce3692aa899bb693b90b87eaa5d4d84e ""
+  "/usr/share/texmf/web2c/texmf.cnf" 1581979058 38841 ce3692aa899bb693b90b87eaa5d4d84e ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1643798710 8256616 5aac6bef0d836804b00daf2f892e2ec0 ""
+  "submission.aux" 1675748805 8 a94a2480d3289e625eea47cd1b285758 ""
+  "submission.tex" 1675748804 843 0932c007526f867370957dba596a89fd ""
+  (generated)
+  "submission.pdf"
+  "submission.log"
